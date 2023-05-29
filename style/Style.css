@@ -23,13 +23,14 @@ header{
     color: white;
     text-align: center;
     margin: 0px;
-    font-size: 1.8em;
+    font-size: 1em;
    
     
     }
-h1{
+    h1{
         text-align: center;
     }
+
 h2{
         text-align: center;
         margin-top: 20px;
@@ -82,7 +83,7 @@ div.video > iframe{
 }
 header > h1{
     padding-top: 40px;
-    font-family: android;
+    font-family: 'Android', Arial, Helvetica, sans-serif;
     text-shadow: 10px 10px 10px rgba(0, 0, 0, 0.315);
    
 }
